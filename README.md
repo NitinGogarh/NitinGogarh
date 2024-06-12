@@ -3,8 +3,6 @@
  - 🌱 I’m currently learning React.
  - 📫 How to reach me:-https://nitingogarh-portfolio.vercel.app/  -->
 
-<!-- 
-Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitin kumar</h1>
@@ -26,8 +24,8 @@ Akesh0909/Akesh0909 is a ✨ _special_ ✨ repository because its `README.md` (t
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://wa.me/7988211773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Akesh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nitin-gogarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akesh Yadav" height="30" width="40" /></a>
+<a href="https://wa.me/7988211773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Nitin kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitin-gogarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nitin kumar" height="30" width="40" /></a>
 
 </p>
 <br /> 
